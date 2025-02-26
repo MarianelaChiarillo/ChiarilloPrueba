@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.Final", "ChiarilloPrueba\Entidades.Final.csproj", "{095C0C80-8022-400C-BB4E-4BC40793FDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "FrmLogin\Forms.csproj", "{F634A843-6BEE-4674-8649-06CDB4B38436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095C0C80-8022-400C-BB4E-4BC40793FDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095C0C80-8022-400C-BB4E-4BC40793FDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095C0C80-8022-400C-BB4E-4BC40793FDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095C0C80-8022-400C-BB4E-4BC40793FDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F634A843-6BEE-4674-8649-06CDB4B38436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F634A843-6BEE-4674-8649-06CDB4B38436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F634A843-6BEE-4674-8649-06CDB4B38436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F634A843-6BEE-4674-8649-06CDB4B38436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBC60C4-8015-4548-ABB0-2A7A5922F109}
+	EndGlobalSection
+EndGlobal
